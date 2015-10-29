@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "falcor": "^0.1.13",
+    "lodash": "^3.10.1",
     "react": "^0.14.0"
   }
 }
